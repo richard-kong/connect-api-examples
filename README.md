@@ -1,4 +1,4 @@
-# connect-api-examples
+# getconnect-api-examples
 Sample code for working the the api for getconnect.io
 
 ## Python
